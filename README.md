@@ -1,6 +1,6 @@
 [readme_md.md](https://github.com/user-attachments/files/32949850/readme_md.md)
 
-# School Lost and Found Management System (`lostfound.py`)
+# School Lost and Found Management System 
 
 A robust, console-based Python application integrated with MySQL for managing lost and found items in a school environment. This system supports full database operations, matching algorithms, transaction logging, stack-based undo functionality, and robust error handling.
 
